@@ -3,7 +3,7 @@ import { assets } from "$app/paths";
 export const config = {
 	mainPage: {
 		heading: "Привет!",
-		invitation: "Ты пойдешь со мной на свидение сегодня? 👉👈🥺",
+		invitation: "Ты пойдешь со мной на свидание сегодня? 👉👈🥺",
 		yesText: "Да",
 		noText: "Нет",
 		topImage: `${assets}/Assets/Top_picture/Cute_pic2.jpg`,
